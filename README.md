@@ -1,7 +1,5 @@
 # Talking Smart Glass For Blind
 
-![Person wearing smart glass](./images/IMG_20180605_092232.jpg)
-
 There are multiple smart accessories such as smart glasses, smart watches etc available in the market. But all of them are built for us.
 There is a significant lack of technology to aid the physically challenged. I wanted to build something that is useful for the visually challenged people. So i designed low cost smart glass that can be used to help the visually impaired.
 
@@ -9,8 +7,6 @@ This project uses few Ultrasonic distance sensors, an arduino pro mini, mp3 Play
 
 Circuit board used in this project is designed in the form of a spectacle, that can be worn by visually impaired person. Arduino mounted on the spectacle will detect the obstacle with the help of the sensors and notify the user through headphones and vibration motors.
 
-![PCB Back ](./images/IMG_20180605_092439.jpg "PCB Back side")
-![PCB Front](./images/IMG_20180605_092352.jpg "PCB Front side")
 
 ## Parts needed
 
