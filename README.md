@@ -17,6 +17,8 @@ Project ini menggunakan beberapa sensor jarak ultrasonik, arduino pro mini atau 
 
 ![Circuit Diagram](./images/circuit_diagram.png "Circuit Diagram")
 
+Anda bisa menyesuaikan rangkaiannya secara mandiri untuk komponen yang disesuaikan
+
 ## Flash Program
 
 * Hubungkan Arduino ke PC menggunakan kabel FDTI.
