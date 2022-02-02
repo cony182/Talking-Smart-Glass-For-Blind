@@ -2,7 +2,7 @@
 
 Ada beberapa aksesoris pintar seperti kacamata pintar, jam tangan pintar dll tersedia di pasar. Tapi semuanya dibangun untuk kita. Ada kekurangan teknologi yang signifikan untuk membantu yang ditantang secara fisik. Saya ingin membangun sesuatu yang berguna bagi orang-orang yang ditantang secara visual. Jadi saya merancang kaca pintar murah yang dapat digunakan untuk membantu tunanetra.
 
-Proyek ini menggunakan beberapa sensor jarak ultrasonik, arduino pro mini atau arduino UNO dan modul mp3 Player.
+Project ini menggunakan beberapa sensor jarak ultrasonik, arduino pro mini atau arduino UNO dan modul mp3 Player.
 
 
 ## Part yang dibutuhkan
@@ -10,7 +10,7 @@ Proyek ini menggunakan beberapa sensor jarak ultrasonik, arduino pro mini atau a
 * 1 * Arduino pro mini atau Arduino UNO.
 * 3 * HC SR04 sensor Ultrasonic.
 * 1 * DF Player mini.
-* 1 * earphone
+* 1 * Earphone
 * 1 * SD card
 
 ## Rangkaian circuit
